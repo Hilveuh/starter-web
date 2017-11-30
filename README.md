@@ -18,3 +18,7 @@ blablabla
 
 how do you contribute...??
 -> I don't know :)
+
+## Copyright
+
+Git. Training 2017
