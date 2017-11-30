@@ -15,3 +15,6 @@ Sample website with plenty of files for demos
 blablabla
 
 ## How to contribute
+
+how do you contribute...??
+-> I don't know :)
